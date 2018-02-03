@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome di My Blog</title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Postingan Pertama</title>
+        <description>
+          
+          Ini adalah postingan pertama saya!
+
+        </description>
+        <pubDate>Fri, 26 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018-01-26-postingan-pertama-saya/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-01-26-postingan-pertama-saya/</guid>
+      </item>
+    
+      <item>
+        <title>Penulisan markdown</title>
+        <description>
+          Tata cara penulisan teks markdown - 
+          Dalam Penulisan markdown sangatlah mudah dan efisien di bandingkan dengan menulis web statik menggunakan syntak syntak HTML. Bagi yang belum paham silahkan pahami terlebih dahulu bagaimana cara menggunakan syntak markdown ini 5 Menit Belajar syntak markdown. contoh syntak penulisan menggunakan markdown Teks Bold **Here is some bold text** Hasilnya Here...
+        </description>
+        <pubDate>Fri, 26 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018-01-26-penulisan-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-01-26-penulisan-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Satu Jalan Menuju Kaya, Banyak Jalan Menuju Sukses</title>
+        <description>
+          Di copy dari Kafi Kurnia (www.etraining.space) - 
+          Ibu saya berkali-kali menasihati saya, kata beliau hanya ada satu resep kaya raya. “Hidup hemat !” Bekas bos saya, almarhum Bapak M.S. Kurnia, juga mengatakan hal yang sama. Ibaratnya kita punya dua saku. Saku kanan adalah tempat uang masuk. Saku kiri adalah tempat uang keluar. Selama uang keluar jauh lebih...
+        </description>
+        <pubDate>Fri, 26 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018-01-26-Satu-Jalan-Menuju-Kaya,-Banyak-Jalan-Menuju-Sukses/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-01-26-Satu-Jalan-Menuju-Kaya,-Banyak-Jalan-Menuju-Sukses/</guid>
+      </item>
+    
+  </channel>
+</rss>
