@@ -14,7 +14,7 @@ Berikut Sedikit tentang riwayat pendidikan saya
 | **SDN Nembol 3** | **2000 - 2006** |
 |**MTSN 1 Pandeglang** | **2007 - 2009** |
 |**SMKN 1 Pandeglang** | **2010 - 2012**|
-|[**UNMA Banten**](http://unmabanten.ac.id/ "Situs Unma Banten")| **2014 - Sekarang**|
+|[**UNMA Banten**](http://unmabanten.ac.id/ "Situs Unma Banten")| **2014 - 2018**|
 
 
 Semenjak saya masuk SMK di kota _**Pandeglang**_ saya mulai tertarik dengan komputer, jurusan yang saya ambil ketika saya di __SMK__ adalah jaringan, namun setelah saya lulus dari bangku **SMK** saya sedikit mencari pengalaman dengan bekerja sebagai buruh pabrik di kabupaten _**Tangerang**_.
